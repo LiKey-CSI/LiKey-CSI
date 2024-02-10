@@ -20,6 +20,12 @@ LiKey is the first location-independent keystroke recognition system on numeric 
 The details are illustrated in our paper *LiKey: Location-independent Keystroke Recognition on Numeric Keypads using WiFi Signal*.
 
 ## Raw unprocessed data
-Linux CSI Tool and Atheros CSI Tool Dual-platform basic experimental data: https://drive.google.com/drive/u/1/home
+Linux CSI Tool and Atheros CSI Tool Dual-platform basic experimental data: 
 
-Data at different tilt angles of the keyboard: https://drive.google.com/drive/u/0/home
+https://drive.google.com/file/d/1bmThqA6XYEWBRcZ-GIuYIvyppXt_iBhl/view?usp=sharing
+
+https://drive.google.com/file/d/1VXTZOL191DVdbNjnfGp5FK9j1B_H4Yz3/view?usp=sharing
+
+Data at different tilt angles of the keyboard:
+
+https://drive.google.com/file/d/1w9HoNQU2XkXAbIygcpDVXdbo4VrW-L_r/view?usp=sharing
