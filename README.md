@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Introduction
+LiKey is the first location-independent keystroke recognition system on numeric keypads, consisting of one transmitter and two receivers. Through comparative experiments, we prove that the features and the deep learning model used by LiKey are superior to those of traditional keystroke recognition systems. In addition, LiKey has no limitations on the shape of the keyboard and performs well for keyboards above a certain size and tolerates tilting of the keyboard within a certain angle range.
+
+The details are illustrated in our paper *LiKey: Location-independent Keystroke Recognition on Numeric Keypads using WiFi Signal*.
+
+## Raw unprocessed data
+Linux CSI Tool and Atheros CSI Tool Dual-platform basic experimental data: https://drive.google.com/drive/u/1/home
+
+Data at different tilt angles of the keyboard: https://drive.google.com/drive/u/0/home
